@@ -54,6 +54,6 @@ face-recognition-project/
 -requirements.txt: List of required Python packages.
 -README.md: Project documentation.
 
-##Acknowledgments
--**Deepface:** A lightweight face recognition and facial attribute analysis library for Python.
--**OpenCV:** An open-source computer vision library for image and video processing.
+## Acknowledgments
+- **Deepface:** A lightweight face recognition and facial attribute analysis library for Python.
+- **OpenCV:** An open-source computer vision library for image and video processing.
