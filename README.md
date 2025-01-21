@@ -49,10 +49,10 @@ face-recognition-project/
 └── README.md
 ```
 
--reference_images/: Directory containing reference images for known individuals.
--main.py: Main script to run the face recognition application.
--requirements.txt: List of required Python packages.
--README.md: Project documentation.
+- reference_images/: Directory containing reference images for known individuals.
+- main.py: Main script to run the face recognition application.
+- requirements.txt: List of required Python packages.
+- README.md: Project documentation.
 
 ## Acknowledgments
 - **Deepface:** A lightweight face recognition and facial attribute analysis library for Python.
