@@ -11,7 +11,7 @@ counter = 0
 
 face_match = False
 
-reference_img = cv2.imread("WIN_20250121_19_52_58_Pro.jpg")
+reference_img = cv2.imread("__YOUR-REFERENCE-IMAGE__")
 
 def check_face():
     global face_match
